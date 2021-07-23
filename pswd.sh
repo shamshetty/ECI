@@ -5,4 +5,5 @@ echo -n Password:
 read -s password
 echo
 # Run Command
-echo $password
+echo $password 
+echo $date

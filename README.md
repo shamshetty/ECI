@@ -21,3 +21,16 @@ Another way to download Python using following command from python official site
 After that we have to extract downloaded archive using tar command.
      
     tar xzf Python-2.7.18.tgz
+    
+To check version of installed python using following command.
+    
+    /usr/local/bin/python2.7 -V
+    
+PIP is a useful utility to install and manage Python modules. Using following link for installing the PIP for the installed Python version.
+
+    curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+    
+For creating python file we are using .py extension 
+For executing python code following command is used
+    
+    python3 filename.py

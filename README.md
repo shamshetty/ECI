@@ -30,6 +30,8 @@ PIP is a useful utility to install and manage Python modules. Using following li
 
     curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
     
+### To Run Python Program
+    
 For creating python file we are using .py extension 
 For executing python code following command is used
     

@@ -1,5 +1,26 @@
 # ECI
 
+ShellCode
+------------
+
+###  Steps to execute a shell script
+
+Create a new file using a text editor such as nano or vi in Linux: 
+
+
+    $  nano filename.sh
+    
+Set the script executable permission by running chmod command in Linux:
+
+    $  chmod +x filename.sh
+    
+Execute a shell script in Linux
+
+    $  ./filename.sh
+    or
+    $ bash filename.sh
+
+
 This  Repository contains Code worked during Devops training
 
 PythonCode
